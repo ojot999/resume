@@ -1,5 +1,5 @@
 # Background
 
-# Education
+## Education
 
-# Project
+### Project
