@@ -1,4 +1,4 @@
-## Accountant & Data Analyst
+#### Accountant & Data Analyst
 Technical Skills: Python, SQL, Advanced Excel.
 
 #### Background
